@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "b4dm4n.nixpkgs-fmt",
+    "jnoortheen.nix-ide",
+    "ms-python.black-formatter",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+  ]
+}

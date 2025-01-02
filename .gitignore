@@ -89,6 +89,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.direnv/
 env/
 venv/
 ENV/
@@ -141,7 +142,7 @@ trainer_*_log.txt
 tests/outputs/*
 tests/train_outputs/*
 TODO.txt
-.vscode/*
+.history/
 data/*
 notebooks/data/*
 TTS/tts/utils/monotonic_align/core.c
